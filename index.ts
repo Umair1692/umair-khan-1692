@@ -20,5 +20,7 @@ console.log(answer.firstNumber - answer.secondNumber);
 }else if (answer.operator ==="Division"){
     console.log(answer.firstNumber / answer.secondNumber);    
     }
-    {console.log("first enter number");
+    {console.log("first enter number");{
+        console.log("congrulation")
+    }
 }
